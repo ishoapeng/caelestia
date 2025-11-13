@@ -27,7 +27,7 @@ if status is-interactive
     abbr gco 'git checkout'
     abbr gsh 'git show'
 
-    abbr l 'ls'
+    abbr l 'ls -la'
     abbr ll 'ls -l'
     abbr la 'ls -a'
     abbr lla 'ls -la'
